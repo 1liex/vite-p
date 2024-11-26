@@ -1,0 +1,58 @@
+.border-card {
+  background-color: #212936;
+  border-radius: 20px;
+  width: 25%;
+  width: 400px;
+  padding: 1.9em;
+  margin: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoje {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fceed8;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  font-size: 26px;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-content .title,
+.description {
+  display: flex;
+  text-align: start;
+}
+
+.title {
+  color: #e5e7eb;
+  font-family: "Outfit", sans-serif;
+  font-size: 1.25em;
+  font-weight: 600;
+  margin-top: 0.9em;
+}
+
+.description {
+  color: #e5e7eb;
+  font-family: "Outfit", sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  margin-top: 0.9em;
+  width: 70%;
+}
+.img {
+  border-radius: 20px;
+  width: 350px;
+}
+
+
+
+
